@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import Countries from './components/Countries/Countries'
 import './App.css'
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
         
       </div>
       <h1>React World Tour</h1>
-      
+      <Countries></Countries>
     </>
   )
 }
