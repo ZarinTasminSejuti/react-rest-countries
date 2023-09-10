@@ -4,7 +4,16 @@
     gap:10px;
 }
 
+
+
 .visited{
     background-color: limegreen;
     color: black;
+}
+
+
+.flag-container img{
+    width: 100px;
+    height: 70px;
+    margin-right: 10px;
 }

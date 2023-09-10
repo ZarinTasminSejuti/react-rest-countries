@@ -1,6 +1,18 @@
 .country{
-    border: 2px solid tomato;
+    border: 2px solid rgb(39, 184, 136);
     padding: 15px;
     margin: 15px;
     border-radius: 10px;
+    background-color: rgb(100, 225, 184);
+}
+
+button{
+   color: green;
+   margin-bottom: 10px;
+}
+
+
+.mainImg{
+    height: 200px;
+    width: 270px;
 }
